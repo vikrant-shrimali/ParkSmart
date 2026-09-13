@@ -18,5 +18,3 @@ A student Android application developed as a B.Tech final year project to help d
 - Build system: Gradle (gradlew wrapper included)
 - Backend services: Firebase (google-services.json included)
 - Release/Obfuscation: ProGuard / R8 (proguard-rules.pro)
-
-## Project layout
